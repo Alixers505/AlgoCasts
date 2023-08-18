@@ -15,6 +15,27 @@
 //     [11, 16, 15, 6],
 //     [10,  9,  8, 7]]
 
-function matrix(n) {}
+function matrix(n) {
+  // // Define mother array
+  // const matrixArray = [];
+  // let count = n;
+
+  // // Push first array of 'n' numbers
+  // let firstArray = [];
+  // for (let i = 0; i < n; i++) {
+  //   firstArray.push(i + 1);
+  // }
+  // matrixArray.push(firstArray);
+
+  // // Loop through other rows
+  // for()
+
+
+
+  // console.log(matrixArray);
+  // return matrixArray;
+}
+
+// fuck this bullshit
 
 module.exports = matrix;
